@@ -1,7 +1,9 @@
 <h1 align="center">HELLO WORLD! It's me Fatema Tuj Zuhura <br> Welcome to my profile.....</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatema7843&label=Profile%20views&color=0e75b6&style=flat" alt="fatema7843" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatema7843&show_icons=true&locale=en&layout=compact" alt="fatema7843" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatema7843&layout=compact)](https://github.com/fatema7843/github-readme-stats)
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatema7843&show_icons=true&locale=en&layout=compact" alt="fatema7843" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatema7843&show_icons=true&locale=en" alt="fatema7843" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatema7843&" alt="fatema7843" /></p> -->
 <h3 align="left">Languages and Tools:</h3>
