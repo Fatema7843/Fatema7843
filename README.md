@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatema7843&label=Profile%20views&color=0e75b6&style=flat" alt="fatema7843" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatema7843&layout=compact)](https://github.com/fatema7843/github-readme-stats)
+![Fatema's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatema7843&show_icons=true&theme=radical)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatema7843&show_icons=true&locale=en&layout=compact" alt="fatema7843" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatema7843&show_icons=true&locale=en" alt="fatema7843" /></p>
