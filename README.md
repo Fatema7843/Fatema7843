@@ -1,4 +1,4 @@
-<h1 align="center">Hi, it's Fatema Tuj Zuhura <br> Welcome to my profile.....</h1>
+<h1 align="center">Hi <br> Welcome to my profile.....</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatema7843&label=Profile%20views&color=0e75b6&style=flat" alt="fatema7843" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatema7843&layout=compact)](https://github.com/fatema7843/github-readme-stats) &nbsp;&nbsp;
